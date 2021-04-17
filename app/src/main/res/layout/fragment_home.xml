@@ -26,7 +26,7 @@
                     android:layout_height="wrap_content"
                     android:layout_centerVertical="true"
                     android:layout_marginStart="53dp"
-                    android:text="Wedding Planner"
+                    android:text="Wedding Store"
                     android:textStyle="bold"
                     android:textSize="30dp"/>
                 <TextView
